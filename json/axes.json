@@ -1,28 +1,28 @@
 [
 	{
-		"id": "thank",
-		"name": "Gratitude",
+		"id": "crim",
+		"name": "Criminal Justice",
 		"weights": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
 		"left": {
-			"name": "Thankful",
-			"color": "#8e7cc3",
-			"description": "Those with higher Thankful scores thank others for their good deeds towards them or society and are grateful for whatever they have in life."
+			"name": "Rehabilitative",
+			"color": "#14bee1",
+			"description": "Those who believe the solution to crime is shared societal responsibility to create conditions where people will want to do the right thing instead of committing crime."
 		},
 		"right": {
-			"name": "Arrogant",
-			"color": "#aa8e39",
-			"description": "Those with higher Arrogant scores either forget to say \"thank you\", don't care enough to express their gratitude, or feel entitled to what they are given, what they have, or more."
+			"name": "Punitive",
+			"color": "#e6cc27",
+			"description": "Those who believe the solution to crime is harsher punishments so that potential criminals would be too afraid of the consequences to commit crime."
 		},
 		"tiers": [
-			"Super Thankful",
-			"Gratified",
-			"Deferential",
-			"Pleased",
-			"Balanced",
-			"Showy",
-			"Pretentious",
-			"Entitled",
-			"Highly Arrogant"
+			"Abolition",
+			"Compassion",
+			"Criminal Rights",
+			"Reform",
+			"Mixed",
+			"Penal",
+			"Deterrent",
+			"Retribution",
+			"Vengeance"
 		]
 	},
 	{
