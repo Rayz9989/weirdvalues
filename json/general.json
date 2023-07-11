@@ -1,10 +1,10 @@
 {
-	"title": "wholsumvalues",
-	"version": "Pre-release 4",
-	"github": "https://github.com/Rayz9989/wholsumvalues",
-	"link": "Rayz9989.github.io/wholsumvalues",
-	"description": "wholsumvalues is an attempt by Rayz9989 at making a basic 8values-style political test wherein the test tries to measure positive personality qualities in a person to get a sense of their overall \"wholsumness\" | NOTE: The test purposefully exaggerates your traits for comedic effect because it is silly, please don't get angry or too enaumored with them!",
+	"title": "weirdvalues",
+	"version": "Alpha 1",
+	"github": "https://github.com/Rayz9989/weirdvalues",
+	"link": "Rayz9989.github.io/weirdvalues",
+	"description": "weirdvalues is an attempt by Rayz9989 at making yet another basic 8values-style political test, this time actually political instead of a personality quiz! This test aims to measure political values that are usually left disregarded by most major generalized tests and shows stances on slightly more specific issues, splitting more general axes to show nuance.",
 	"valQuestion": "What are the 18 values?",
 	"valDescription": "There are nine independent axes - Gratitude, Reception, Asking, Mercy, Integrity, Physical Manners, Connections, Intrapersonal, and Outlook - and each has two opposing values assigned to them. They are:",
-	"mainFont": "Montserrat"
+	"mainFont": "Andika"
 }
