@@ -1,3 +1,3 @@
 ## Link
 
-https://rayz9989.github.io/wholsumvalues/
+https://rayz9989.github.io/weirdvalues/
