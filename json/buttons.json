@@ -12,19 +12,19 @@
 		"focusColor": "#5452ad"
 	},
 	{
-		"name": "Slightly/Partially Agree",
+		"name": "Partially Agree",
 		"modifier": 0.25,
 		"color": "#6e7ecf",
 		"focusColor": "#5662a1"
 	},
 	{
-		"name": "Neutral/Skip",
+		"name": "Neutral/¯\\_(ツ)_/¯/Skip",
 		"modifier": 0,
 		"color": "#708090",
 		"focusColor": "#577194"
 	},
 	{
-		"name": "Slightly/Partially Disagree",
+		"name": "Partially Disagree",
 		"modifier": -0.25,
 		"color": "#6e7397",
 		"focusColor": "#565975"

@@ -26,15 +26,15 @@
 		]
 	},
 	{
-		"id": "priv",
-		"name": "Privacy",
+		"id": "safe",
+		"name": "Crime Prevention",
 		"left": {
-			"name": "Security",
+			"name": "Secure",
 			"color": "#ffd966",
 			"description": "Believes that the government must do all it can to prevent crime, terrorism, and danger. Values safety of the group over individual privacy/responsibility."
 		},
 		"right": {
-			"name": "Independence",
+			"name": "Independent",
 			"color": "#a64d79",
 			"description": "Believes that people must protect themselves or that crime prevention is best done via non-policial means. Values self-reliance or fun over safety."
 		},
@@ -51,15 +51,15 @@
 		]
 	},
 	{
-		"id": "gvrn",
-		"name": "Government",
+		"id": "info",
+		"name": "Information",
 		"left": {
-			"name": "Shadow",
+			"name": "Secret",
 			"color": "#954216",
 			"description": "Would rather that the government conceal information and keep public knowledge limited."
 		},
 		"right": {
-			"name": "Transparency",
+			"name": "Transparent",
 			"color": "#ffff89",
 			"description": "Would rather that information about governmental operations be easily available to the public."
 		},
