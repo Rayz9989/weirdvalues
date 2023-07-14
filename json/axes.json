@@ -29,12 +29,12 @@
 		"id": "safe",
 		"name": "Crime Prevention",
 		"left": {
-			"name": "Secure",
+			"name": "Security",
 			"color": "#ffd966",
 			"description": "Believes that the government must do all it can to prevent crime, terrorism, and danger. Values safety of the group over individual privacy/responsibility."
 		},
 		"right": {
-			"name": "Independent",
+			"name": "Independence",
 			"color": "#a64d79",
 			"description": "Believes that people must protect themselves or that crime prevention is best done via non-policial means. Values self-reliance or fun over safety."
 		},

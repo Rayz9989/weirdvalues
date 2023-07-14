@@ -1,6 +1,6 @@
 [
 	{
-		"question": "whar woul doz wit vv\n ifs noe fingr.",
+		"question": "My defense is my own responsibility, no government should stop me from defending myself.",
 		"effect": {
 			"crim": 0,
 			"safe": -10,
@@ -14,7 +14,7 @@
 		}
 	},
 	{
-		"question": "I would like to keep a list of things that should disqualify others from interacting with me.",
+		"question": ".",
 		"effect": {
 			"crim": 0,
 			"safe": -10,
